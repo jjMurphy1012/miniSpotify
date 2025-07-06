@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.laioffer.spotify.app-mergeDebugResources-72:/values-watch-v20/values-watch-v20.xml",
+            "map": [
+                {
+                    "source": "/Users/zhengjiajun/.gradle/caches/transforms-3/5b52fba712ac1186a99c1e0797a14660/transformed/appcompat-1.5.1/res/values-watch-v20/values-watch-v20.xml",
+                    "from": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,214,385",
+                        "endLines": "4,7,10",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "209,380,553"
+                    }
+                }
+            ]
+        }
+    ]
+}

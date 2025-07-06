@@ -1,0 +1,1 @@
+[{"navFile":"src/main/res/navigation/nav_graph.xml","javaFiles":["com.laioffer.spotify.ui.home.HomeFragmentDirections","com.laioffer.spotify.ui.favorite.FavoriteFragmentDirections","com.laioffer.spotify.ui.playlist.PlaylistFragmentArgs"]}]

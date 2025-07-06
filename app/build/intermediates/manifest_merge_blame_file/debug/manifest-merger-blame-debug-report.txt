@@ -1,0 +1,156 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.laioffer.spotify"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:5:5-66
+11-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->[com.google.android.exoplayer:exoplayer-core:2.18.2] /Users/zhengjiajun/.gradle/caches/transforms-3/076f963c9c27d2ae143aa42462d899ea/transformed/exoplayer-core-2.18.2/AndroidManifest.xml:24:5-79
+12-->[com.google.android.exoplayer:exoplayer-core:2.18.2] /Users/zhengjiajun/.gradle/caches/transforms-3/076f963c9c27d2ae143aa42462d899ea/transformed/exoplayer-core-2.18.2/AndroidManifest.xml:24:22-76
+13
+14    <application
+14-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:7:5-29:19
+15        android:name="com.laioffer.spotify.MainApplication"
+15-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:8:9-40
+16        android:allowBackup="true"
+16-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:9:9-35
+17        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+17-->[androidx.core:core:1.8.0] /Users/zhengjiajun/.gradle/caches/transforms-3/07af3af29647cef6f5d8f8e2f176ee0f/transformed/core-1.8.0/AndroidManifest.xml:24:18-86
+18        android:dataExtractionRules="@xml/data_extraction_rules"
+18-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:10:9-65
+19        android:debuggable="true"
+20        android:extractNativeLibs="false"
+21        android:fullBackupContent="@xml/backup_rules"
+21-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:11:9-54
+22        android:icon="@mipmap/ic_launcher"
+22-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:12:9-43
+23        android:label="@string/app_name"
+23-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:13:9-41
+24        android:networkSecurityConfig="@xml/network_security_config"
+24-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:16:9-69
+25        android:supportsRtl="true"
+25-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:14:9-35
+26        android:testOnly="true"
+27        android:theme="@style/Theme.Spotify" >
+27-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:15:9-45
+28        <activity
+28-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:18:9-28:20
+29            android:name="com.laioffer.spotify.MainActivity"
+29-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:19:13-41
+30            android:exported="true"
+30-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:20:13-36
+31            android:label="@string/app_name"
+31-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:21:13-45
+32            android:theme="@style/Theme.Spotify" >
+32-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:22:13-49
+33            <intent-filter>
+33-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:23:13-27:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:24:17-69
+34-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:24:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:26:17-77
+36-->/Users/zhengjiajun/Desktop/laioffer/项目/Spotify/Spotify/app/src/main/AndroidManifest.xml:26:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->[androidx.compose.ui:ui-tooling:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/1b6f64a73dbc9e3d5177e40ce9f5b53a/transformed/ui-tooling-1.3.2/AndroidManifest.xml:23:9-25:39
+40            android:name="androidx.compose.ui.tooling.PreviewActivity"
+40-->[androidx.compose.ui:ui-tooling:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/1b6f64a73dbc9e3d5177e40ce9f5b53a/transformed/ui-tooling-1.3.2/AndroidManifest.xml:24:13-71
+41            android:exported="true" />
+41-->[androidx.compose.ui:ui-tooling:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/1b6f64a73dbc9e3d5177e40ce9f5b53a/transformed/ui-tooling-1.3.2/AndroidManifest.xml:25:13-36
+42        <activity
+42-->[androidx.compose.ui:ui-test-manifest:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/762fe582ab9667617f7a10e8f714adf6/transformed/ui-test-manifest-1.3.2/AndroidManifest.xml:23:9-25:39
+43            android:name="androidx.activity.ComponentActivity"
+43-->[androidx.compose.ui:ui-test-manifest:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/762fe582ab9667617f7a10e8f714adf6/transformed/ui-test-manifest-1.3.2/AndroidManifest.xml:24:13-63
+44            android:exported="true" />
+44-->[androidx.compose.ui:ui-test-manifest:1.3.2] /Users/zhengjiajun/.gradle/caches/transforms-3/762fe582ab9667617f7a10e8f714adf6/transformed/ui-test-manifest-1.3.2/AndroidManifest.xml:25:13-36
+45
+46        <uses-library
+46-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+47            android:name="androidx.window.extensions"
+47-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+48            android:required="false" />
+48-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+49        <uses-library
+49-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+50            android:name="androidx.window.sidecar"
+50-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+51            android:required="false" />
+51-->[androidx.window:window:1.0.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a86ecd95cc6bd466627455a0f7dfd2d1/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+52
+53        <service
+53-->[androidx.room:room-runtime:2.4.3] /Users/zhengjiajun/.gradle/caches/transforms-3/ce62840cff7a3f07c641c17e572d2d2c/transformed/room-runtime-2.4.3/AndroidManifest.xml:25:9-28:40
+54            android:name="androidx.room.MultiInstanceInvalidationService"
+54-->[androidx.room:room-runtime:2.4.3] /Users/zhengjiajun/.gradle/caches/transforms-3/ce62840cff7a3f07c641c17e572d2d2c/transformed/room-runtime-2.4.3/AndroidManifest.xml:26:13-74
+55            android:directBootAware="true"
+55-->[androidx.room:room-runtime:2.4.3] /Users/zhengjiajun/.gradle/caches/transforms-3/ce62840cff7a3f07c641c17e572d2d2c/transformed/room-runtime-2.4.3/AndroidManifest.xml:27:13-43
+56            android:exported="false" />
+56-->[androidx.room:room-runtime:2.4.3] /Users/zhengjiajun/.gradle/caches/transforms-3/ce62840cff7a3f07c641c17e572d2d2c/transformed/room-runtime-2.4.3/AndroidManifest.xml:28:13-37
+57
+58        <provider
+58-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:25:9-33:20
+59            android:name="androidx.startup.InitializationProvider"
+59-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:26:13-67
+60            android:authorities="com.laioffer.spotify.androidx-startup"
+60-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:27:13-68
+61            android:exported="false" >
+61-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:28:13-37
+62            <meta-data
+62-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:30:13-32:52
+63                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+63-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:31:17-85
+64                android:value="androidx.startup" />
+64-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:32:17-49
+65            <meta-data
+65-->[androidx.emoji2:emoji2:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a8d7658507720ce7c727d6c41a3f2887/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+66                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+66-->[androidx.emoji2:emoji2:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a8d7658507720ce7c727d6c41a3f2887/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+67                android:value="androidx.startup" />
+67-->[androidx.emoji2:emoji2:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a8d7658507720ce7c727d6c41a3f2887/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+68            <meta-data
+68-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zhengjiajun/.gradle/caches/transforms-3/e50115dc6c39722039c0a59e73de6e21/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+69                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zhengjiajun/.gradle/caches/transforms-3/e50115dc6c39722039c0a59e73de6e21/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
+70                android:value="androidx.startup" />
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] /Users/zhengjiajun/.gradle/caches/transforms-3/e50115dc6c39722039c0a59e73de6e21/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+71        </provider>
+72
+73        <receiver
+73-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:35:9-47:20
+74            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+74-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:36:13-76
+75            android:directBootAware="false"
+75-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:37:13-44
+76            android:enabled="true"
+76-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:38:13-35
+77            android:exported="true"
+77-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:39:13-36
+78            android:permission="android.permission.DUMP" >
+78-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:40:13-57
+79            <intent-filter>
+79-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:41:13-43:29
+80                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+80-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:17-91
+80-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:42:25-88
+81            </intent-filter>
+82            <intent-filter>
+82-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:44:13-46:29
+83                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+83-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:17-85
+83-->[androidx.profileinstaller:profileinstaller:1.2.0] /Users/zhengjiajun/.gradle/caches/transforms-3/a94f1025e9daf780f1ae7bf49f6a5886/transformed/profileinstaller-1.2.0/AndroidManifest.xml:45:25-82
+84            </intent-filter>
+85        </receiver>
+86    </application>
+87
+88</manifest>

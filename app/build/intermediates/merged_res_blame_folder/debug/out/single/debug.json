@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/xml_data_extraction_rules.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/color_bottom_nav_color.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/color/bottom_nav_color.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_vinyl_background.png.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/vinyl_background.png"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/layout_activity_main.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_pause_24.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_pause_24.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_unfavorite_24.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_unfavorite_24.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/menu_bottom_nav_menu.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/navigation_nav_graph.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_home_24.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_home_24.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.laioffer.spotify.app-main-76:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/layout_fragment_favorite.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/layout/fragment_favorite.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/xml_backup_rules.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/xml_network_security_config.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_favorite_24.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_favorite_24.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/layout_fragment_home.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.laioffer.spotify.app-merged_res-74:/drawable_ic_play_arrow_24.xml.flat",
+        "source": "com.laioffer.spotify.app-main-76:/drawable/ic_play_arrow_24.xml"
+    }
+]
